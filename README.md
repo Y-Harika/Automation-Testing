@@ -51,11 +51,11 @@ Automation-Testing
 
 ##  Key Features
 
-✔ BDD style automation using **Cucumber**
-✔ Modularity with **Page Object Model (POM)**
-✔ Reusable utilities & test configuration
-✔ Cross-browser execution support (configurable)
-✔ Readable Gherkin syntax for test scenarios
+* BDD style automation using **Cucumber**
+* Modularity with **Page Object Model (POM)**
+* Reusable utilities & test configuration
+* Cross-browser execution support (configurable)
+* Readable Gherkin syntax for test scenarios
 
 ##  Sample Feature (BDD)
 
